@@ -1,0 +1,1 @@
+Abra o arquivo index.html para iniciar o protótipo navegável. O menu lateral redireciona para páginas HTML separadas. Os botões de ação são apenas simulação visual, sem banco de dados real.
